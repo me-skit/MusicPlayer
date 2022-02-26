@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="previous"><![CDATA[<<]]></string>
+    <string name="play"><![CDATA[>]]></string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="elapsed">00.00</string>
+    <string name="length">04.00</string>
+    <string name="default_song_art">Default song art</string>
+    <string name="default_song_name">There is no song playing</string>
+    <string name="default_artist_name">Stopped</string>
+    <string name="title">Title:</string>
+    <string name="artist">Artist:</string>
+    <string name="genre">Genre</string>
+    <string name="no_genre">No genre</string>
+    <string name="no_artist_name">No artist name</string>
+    <string name="year">Year</string>
+    <string name="no_year">No year</string>
+    <string name="no_bitrate">No bitrate</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="madonna">Madonna</string>
+    <string name="like_a_prayer">Like a prayer</string>
+</resources>
